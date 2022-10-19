@@ -9,6 +9,8 @@
   "author": "maurogestoso",
   "license": "MIT",
   "devDependencies": {
+    "@swc/core": "^1.3.9",
+    "@swc/jest": "^0.2.23",
     "@types/jest": "^29.2.0",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "@typescript-eslint/parser": "^5.40.1",
